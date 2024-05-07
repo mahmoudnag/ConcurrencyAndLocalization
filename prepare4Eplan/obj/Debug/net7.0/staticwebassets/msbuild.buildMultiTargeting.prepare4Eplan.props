@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\prepare4Eplan.props" />
+</Project>
